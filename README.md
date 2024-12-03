@@ -1,7 +1,7 @@
 # Retail Analysis and Word Count using MRJob
 
 This lab involves using `MRJob`, a Python framework for writing MapReduce jobs, to process and analyze two different datasets:
-1. **Retail Dataset**: Analyze sales data to calculate total spending and find the maximum price for each country and month.
+1. **Retail Dataset**: Analyze sales data to calculate total spending and find the maximum price for each country and month on a huge data set.
 2. **Word Count Dataset**: Perform word frequency analysis on product descriptions.
 
 ---
