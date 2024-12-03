@@ -1,6 +1,7 @@
 from mrjob.job import MRJob
 
 class RetailDetail(MRJob):
+    
 
     def mapper(self, _, line):
         fields = line.strip().split('\t')
