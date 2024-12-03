@@ -52,10 +52,3 @@ Count the frequency of each word in the product description field of the dataset
 #### **Reducer**:
 - Aggregates the count of each word and emits `(word, frequency)`.
 
----
-
-## Inputs and Outputs
-
-### RetailDetail
-#### **Input**:
-- A tab-separated retail dataset with fields:
